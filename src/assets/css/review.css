@@ -25,7 +25,7 @@
 }
 
 .review-header p {
-  color: #777;
+  color: #a3a3a3;
 
   line-height: 1.8;
 }
@@ -43,7 +43,7 @@
 
   border-radius: 24px;
 
-  background: rgba(255, 255, 255, 0.249);
+  background: rgba(255, 255, 255, 0.095);
 
   backdrop-filter: blur(12px);
 
@@ -77,7 +77,7 @@
 }
 
 .review-top p {
-  color: #888;
+  color: #a3a3a3;
 }
 
 .stars {
@@ -91,7 +91,7 @@
 .review-card p {
   line-height: 1.7;
 
-  color: #666;
+  color: #a3a3a3;
 }
 
 @media (max-width: 900px) {

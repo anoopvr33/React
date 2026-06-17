@@ -8,7 +8,7 @@ const reviews = [
     role: "CEO, TechFlow",
     image: "/kappa.avif",
     review:
-      "The platform completely transformed our workflow. Everything is faster and easier to manage.",
+      "Very crispy and tastes exactly like traditional Kerala kappa chips.",
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const reviews = [
     role: "Product Manager",
     image: "/kappa.avif",
     review:
-      "Beautiful UI, excellent performance, and amazing customer support.",
+      "The authentic Kerala flavour is what makes this special.",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const reviews = [
     role: "Founder, NextLabs",
     image: "/kappa.avif",
     review:
-      "We reduced manual work by almost 70% after adopting this solution.",
+      "Good packaging and excellent crunch. Will definitely buy again.",
   },
 ];
 

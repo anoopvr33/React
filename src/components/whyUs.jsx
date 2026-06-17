@@ -17,11 +17,10 @@ export default function WhyChooseUs() {
       >
         <span className="tag">WHY CHOOSE US</span>
 
-        <h2>Build Smarter Digital Products Faster</h2>
+        <h2>Authentic Kerala Taste/Hygienic Preparation</h2>
 
         <p>
-          We create scalable, modern, and user-friendly applications that help
-          businesses grow with speed and reliability.
+          Made from carefully selected fresh tapioca roots.Manufactured with strict quality and hygiene standards.
         </p>
 
         <div className="features">
@@ -29,9 +28,9 @@ export default function WhyChooseUs() {
             <FaRocket />
 
             <div>
-              <h4>Fast Performance</h4>
+              <h4>Tasty</h4>
 
-              <p>Optimized for speed and responsiveness.</p>
+              <p>A snack loved by all age groups.</p>
             </div>
           </div>
 
@@ -39,9 +38,9 @@ export default function WhyChooseUs() {
             <FaShieldAlt />
 
             <div>
-              <h4>Secure Platform</h4>
+              <h4>Freshly Packed</h4>
 
-              <p>Built with modern security standards.</p>
+              <p>Sealed to preserve freshness and flavour.</p>
             </div>
           </div>
 
@@ -49,9 +48,9 @@ export default function WhyChooseUs() {
             <FaChartLine />
 
             <div>
-              <h4>Business Growth</h4>
+              <h4>Premium Ingredients</h4>
 
-              <p>Solutions designed to scale easily.</p>
+              <p>Prepared using traditional Malabar-inspired recipes.</p>
             </div>
           </div>
         </div>
@@ -66,7 +65,7 @@ export default function WhyChooseUs() {
         viewport={{ once: true, amount: 0.3 }}
         transition={{ duration: 0.8 }}
       >
-        <img src="/kappa.avif" alt="dashboard" />
+        <img src="/crispy-potato-chips-collection-delicious-goldenbrown-potato-chips.png" alt="dashboard" />
       </motion.div>
     </section>
   );

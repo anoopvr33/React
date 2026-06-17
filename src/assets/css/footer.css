@@ -17,7 +17,7 @@
 
   line-height: 1.8;
 
-  color: #777;
+  color:  #d1d1d1;
 
   margin: 20px 0;
 }
@@ -64,7 +64,7 @@
 .footer-links a {
   text-decoration: none;
 
-  color: #777;
+  color: #d1d1d1;
 }
 
 .footer-links a:hover {
@@ -72,7 +72,7 @@
 }
 
 .footer-contact p {
-  color: #777;
+  color: #d1d1d1;
 }
 
 .footer-bottom {
@@ -84,7 +84,7 @@
 
   border-top: 1px solid rgba(255, 255, 255, 0.08);
 
-  color: #777;
+  color: #d1d1d1;
 }
 
 @media (max-width: 900px) {

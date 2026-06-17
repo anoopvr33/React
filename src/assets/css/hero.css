@@ -19,12 +19,13 @@
 }
 
 .hero-content h1 {
-  font-size: 4rem;
+  font-size: 3rem;
   margin-bottom: 20px;
 }
 
 .hero-content p {
   font-size: 1.2rem;
+  line-height: 1.5;
   margin-bottom: 30px;
 }
 
@@ -32,6 +33,7 @@
   padding: 14px 28px;
   border: none;
   cursor: pointer;
+  background-color: rgb(149, 83, 255);
 }
 
 .hero-image {

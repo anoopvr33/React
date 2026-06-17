@@ -17,8 +17,7 @@ export default function Footer() {
           <h2>MyBrand</h2>
 
           <p>
-            Building modern digital experiences with scalable, secure and
-            innovative solutions.
+         Bringing the authentic taste of Kerala to every home with premium quality Kappa Chips.
           </p>
 
           <div className="socials">
@@ -30,13 +29,9 @@ export default function Footer() {
               <FaInstagram />
             </a>
 
-            <a href="#">
-              <FaLinkedinIn />
-            </a>
+          
 
-            <a href="#">
-              <FaGithub />
-            </a>
+          
           </div>
         </div>
 
@@ -49,8 +44,7 @@ export default function Footer() {
 
           <a href="#about">About</a>
 
-          <a href="#services">Services</a>
-
+     
           <a href="#contact">Contact</a>
         </div>
 
@@ -61,7 +55,7 @@ export default function Footer() {
 
           <p>hello@mybrand.com</p>
 
-          <p>+91 98765 43210</p>
+          <p>+91 00000 00000</p>
 
           <p>Kerala, India</p>
         </div>

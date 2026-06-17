@@ -34,7 +34,7 @@
 .contact-left p {
   line-height: 1.8;
 
-  color: #777;
+  color: #a3a3a3  ;
 }
 
 .contact-info {
@@ -97,9 +97,13 @@
 
   border-radius: 14px;
 
-  background: rgba(255, 255, 255, 0.311);
+  background: rgba(255, 255, 255, 0.152);
 }
-
+.contact-form input::placeholder{
+ color: #d1d1d1;
+} .contact-form textarea::placeholder{
+  color: #d1d1d1;
+}
 .contact-form textarea {
   resize: none;
 }
@@ -118,7 +122,7 @@
   font-size: 16px;
 
   font-weight: 600;
-
+color: #0ea5e9;
   transition: 0.3s;
 }
 

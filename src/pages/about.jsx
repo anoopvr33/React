@@ -33,7 +33,7 @@ export default function About() {
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
           >
-            <img src="/kappa.avif" alt="About" />
+            <img src="/3030972_429633-PE4QDE-696.jpg" alt="About" />
           </motion.div>
 
           <motion.div
@@ -45,13 +45,11 @@ export default function About() {
             <h2>Who We Are</h2>
 
             <p>
-              We are a passionate team focused on creating innovative digital
-              products that solve real-world business problems.
+              At Malabar Foods, we are passionate about bringing Kerala's traditional flavours to modern snack lovers. Our Kappa Chips are prepared using high-quality tapioca sourced from trusted farms and crafted with authentic recipes that preserve the true taste of Malabar.
             </p>
 
             <p>
-              Our solutions combine modern design, performance and technology to
-              deliver exceptional user experiences.
+             Every batch is made with a focus on freshness, quality, and consistency so customers can enjoy a delicious and satisfying snack anytime.
             </p>
           </motion.div>
         </div>
@@ -62,7 +60,7 @@ export default function About() {
 
             <h3>Mission</h3>
 
-            <p>Deliver reliable and scalable solutions.</p>
+            <p>Deliver clean and tasty foods.</p>
           </motion.div>
 
           <motion.div className="about-card" whileHover={{ y: -10 }}>
@@ -70,13 +68,13 @@ export default function About() {
 
             <h3>Vision</h3>
 
-            <p>Empower businesses through technology.</p>
+            <p>Empower businesses through sweets.</p>
           </motion.div>
         </div>
 
         {/* Statistics */}
 
-        <div className="stats">
+        <div className="statss">
           <div>
             <FaUsers />
 
