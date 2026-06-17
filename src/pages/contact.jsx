@@ -37,7 +37,14 @@ export default function Contact() {
 
       const data = await response.json();
 
-      console.log("response data", data);
+      if (data.success === "true") {
+        alert("Message send");
+        return;
+      } else {
+        alert("Something went wrong");
+        return;
+      }
+      // console.log("response data", data);
     } catch (error) {
       console.log(error);
     }
