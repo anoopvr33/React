@@ -49,3 +49,19 @@
   object-fit: cover;
   max-width: 100%;
 }
+
+@media screen and (max-width: 700px) {
+  .hero-container {
+    display: flex;
+    flex-direction: column-reverse;
+    margin-top: 180px;
+    /* border: 1px solid red; */
+  }
+  .hero{
+    /* border: 1px solid green; */
+    height: auto;
+  }
+  .hero-image img{
+    height: 250px;
+  }
+}
