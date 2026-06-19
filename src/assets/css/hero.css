@@ -54,7 +54,7 @@
   .hero-container {
     display: flex;
     flex-direction: column-reverse;
-    margin-top: 180px;
+    margin-top: 200px;
     /* border: 1px solid red; */
   }
   .hero{
@@ -63,5 +63,8 @@
   }
   .hero-image img{
     height: 250px;
+  }
+  .hero-content h1{
+    font-size: 2rem;
   }
 }
